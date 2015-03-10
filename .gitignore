@@ -1,0 +1,7 @@
+UE-Project/Binaries
+UE-Project/DerivedDataCache
+UE-Project/Intermediate
+UE-Project/Saved
+*.sln
+*.sdf
+*.suo
